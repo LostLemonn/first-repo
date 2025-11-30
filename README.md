@@ -17,4 +17,4 @@ print (result)
 You can learn more about
 <ins> tabby cats </ins>
 if you click [here](https://en.wikipedia.org/wiki/Tabby_cat)!
-! [cat gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWRyN3JvMzkyaGM3MHpra2hoMHhwc3U4M2Qxcm5scHlwNWVncTExbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2zW5WSSp0umEHmqgTA/giphy.gif)
+![cat gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWRyN3JvMzkyaGM3MHpra2hoMHhwc3U4M2Qxcm5scHlwNWVncTExbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2zW5WSSp0umEHmqgTA/giphy.gif)
